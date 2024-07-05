@@ -24,7 +24,7 @@ Guia do que foi usado para realizar este projeto.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML , CSS
+- HTML5 , CSS3
 - JavaScript
 - Git , Github
 - Figma
