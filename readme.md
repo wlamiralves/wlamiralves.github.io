@@ -17,7 +17,7 @@ Guia do que foi usado para realizar este projeto.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/devlinks.png" width="100%">
+  <img alt="projeto DevLinks" src="./assets/devlinks.png" width="100%">
 </p>
 
 ## 👨‍💻 Tecnologias
